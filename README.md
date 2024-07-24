@@ -4,7 +4,7 @@ I'm a passionate full-stack web developer, dedicated to creating innovative and 
 
 ## 📫 Let's Connect
 
-I'm open to collaboration, learning opportunities, and engaging discussions. Connect with me on [LinkedIn](https://www.linkedin.com/in/HenenTheProgrammer/) or [Facebook](https://facebook.com/DevHenen) to stay in touch.
+I'm open to collaboration, learning opportunities, and engaging discussions. Connect with me on [LinkedIn](https://www.linkedin.com/in/dev-henen/) or [Facebook](https://facebook.com/DevHenen) to stay in touch.
 
 Let's build something amazing together! 🚀
 
